@@ -1,5 +1,5 @@
 body {
-  max-width: 45em;
+  max-width: 72em;
   margin: 2em auto;
   padding: 0 1em;
   line-height: 1.4em;
@@ -16,6 +16,7 @@ pre {
 
 code {
   line-height: 1;
+  font-family: 'Noto Sans Mono', mono;
 }
 
 p {
